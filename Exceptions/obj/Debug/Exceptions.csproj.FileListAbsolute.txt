@@ -1,0 +1,14 @@
+C:\Users\АушахмановИ\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\АушахмановИ\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\АушахмановИ\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\АушахмановИ\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\АушахмановИ\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\АушахмановИ\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\АушахмановИ\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\АйткожаЖ.CORP\source\repos\ExceptionsDZ\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\АйткожаЖ.CORP\source\repos\ExceptionsDZ\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\АйткожаЖ.CORP\source\repos\ExceptionsDZ\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\АйткожаЖ.CORP\source\repos\ExceptionsDZ\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\АйткожаЖ.CORP\source\repos\ExceptionsDZ\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\АйткожаЖ.CORP\source\repos\ExceptionsDZ\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\АйткожаЖ.CORP\source\repos\ExceptionsDZ\Exceptions\obj\Debug\Exceptions.pdb
